@@ -1,0 +1,6 @@
+{
+  "name": "edu-content-gateway",
+  "version": "4.5.1",
+  "description": "Secure edge relay for educational media and fast content delivery.",
+  "private": true
+}
